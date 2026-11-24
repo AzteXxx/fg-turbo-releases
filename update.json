@@ -1,8 +1,8 @@
 {
-  "version": "2.3.1",
-  "url": "https://raw.githubusercontent.com/AzteXxx/fg-turbo-releases/main/versoes/2.3.1/FGTurbo.exe",
-  "sha256": "9d89ac4c16be6a7d41a213286741ed5e83b4a10330b2c6f4f3babf99509c829a",
-  "notes": "Compra pela Kiwify (vitalicia ou mensal) e ativacao pelo e-mail da compra.",
+  "version": "2.3.2",
+  "url": "https://raw.githubusercontent.com/AzteXxx/fg-turbo-releases/main/versoes/2.3.2/FGTurbo.exe",
+  "sha256": "7d02726e27347780d3bd161afbad07ceefaeb65a74d6f82525b9035997daadd6",
+  "notes": "Limpeza automatica da RAM: limpa sozinha quando passa do limite, sem mexer no jogo aberto.",
   "revoked": "",
-  "sig": "zaxhTHrYOP2EBerLb51eJRdYbYMS9w-0kgdcDYVDE4GWKf4t-uDgh2V3wPBqXB_wPZNjQJXy32wJnKqG9-YR_A"
+  "sig": "hIJkRN74Kazoh8miTzKppvbZWkBgJ378oAbr0bp9MXDgjRBNtSz-huzJY7AwTijVLFfhodwLry4OS1U4s6Wj-Q"
 }
