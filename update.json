@@ -1,8 +1,8 @@
 {
-  "version": "2.3.2",
-  "url": "https://raw.githubusercontent.com/AzteXxx/fg-turbo-releases/main/versoes/2.3.2/FGTurbo.exe",
-  "sha256": "7d02726e27347780d3bd161afbad07ceefaeb65a74d6f82525b9035997daadd6",
-  "notes": "Limpeza automatica da RAM: limpa sozinha quando passa do limite, sem mexer no jogo aberto.",
+  "version": "2.3.3",
+  "url": "https://raw.githubusercontent.com/AzteXxx/fg-turbo-releases/main/versoes/2.3.3/FGTurbo.exe",
+  "sha256": "1f16b2970e9a257a59028de59825b55fa0cbe10dcb4a8446cf857b8aebb0c383",
+  "notes": "Corrige a atualizacao automatica que falhava quando o leitor de temperatura estava aberto.",
   "revoked": "",
-  "sig": "hIJkRN74Kazoh8miTzKppvbZWkBgJ378oAbr0bp9MXDgjRBNtSz-huzJY7AwTijVLFfhodwLry4OS1U4s6Wj-Q"
+  "sig": "pPmxNzziWSuGIkNoUHF2ow68tSFXgg7o7q82dTwQlIP_TnKN6MQGaEa7WwQZAPe_pTjKHxZgZcXYx3FKU4QNWw"
 }
