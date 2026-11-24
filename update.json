@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0",
-  "url": "https://raw.githubusercontent.com/AzteXxx/fg-turbo-releases/main/versoes/2.3.0/FGTurbo.exe",
-  "sha256": "b4d5bfcf71e4faf8edcd0660e162904ab34c59054095bff64251d14ecc3bcda5",
-  "notes": "Todas as telas redesenhadas, testes de mouse e teclado, conexão de rede e atualização automática.",
+  "version": "2.3.1",
+  "url": "https://raw.githubusercontent.com/AzteXxx/fg-turbo-releases/main/versoes/2.3.1/FGTurbo.exe",
+  "sha256": "9d89ac4c16be6a7d41a213286741ed5e83b4a10330b2c6f4f3babf99509c829a",
+  "notes": "Compra pela Kiwify (vitalicia ou mensal) e ativacao pelo e-mail da compra.",
   "revoked": "",
-  "sig": "ako6J4AsphN00csM4Lu4rcz_tIV2gqURN0uK0LiA-oSyER4wcK67TXNN7LPWwXhfknTGT80aZurlX4SUKy1pow"
+  "sig": "zaxhTHrYOP2EBerLb51eJRdYbYMS9w-0kgdcDYVDE4GWKf4t-uDgh2V3wPBqXB_wPZNjQJXy32wJnKqG9-YR_A"
 }
