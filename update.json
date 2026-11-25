@@ -1,8 +1,8 @@
 {
-  "version": "2.3.3",
-  "url": "https://raw.githubusercontent.com/AzteXxx/fg-turbo-releases/main/versoes/2.3.3/FGTurbo.exe",
-  "sha256": "1f16b2970e9a257a59028de59825b55fa0cbe10dcb4a8446cf857b8aebb0c383",
-  "notes": "Corrige a atualizacao automatica que falhava quando o leitor de temperatura estava aberto.",
+  "version": "2.3.4",
+  "url": "https://raw.githubusercontent.com/AzteXxx/fg-turbo-releases/main/versoes/2.3.4/FGTurbo.exe",
+  "sha256": "375c7d9f0fe943f679827ad10475b9d4e19583749d673a91dd5cbf7b13628097",
+  "notes": "Conserta a fila de entrada do mouse/teclado e ajustes antigos de IRQ deixados por outros otimizadores.",
   "revoked": "",
-  "sig": "pPmxNzziWSuGIkNoUHF2ow68tSFXgg7o7q82dTwQlIP_TnKN6MQGaEa7WwQZAPe_pTjKHxZgZcXYx3FKU4QNWw"
+  "sig": "xWmzUEnpy5H_AjWUBmCSKY7f2WgaElXNvMRBtn1ffM1JL7jZ9Yuc5kA18oW9xvv5CmI7Clu1VZXhcn56tAZ3OQ"
 }
